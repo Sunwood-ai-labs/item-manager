@@ -1,5 +1,7 @@
 <div align="center">
 
+![物品管理システム ヘッダー画像](public/header.jpeg)
+
 # ✨ 物品管理アプリケーション ✨
 
 ![物品管理システム](https://img.shields.io/badge/物品管理-システム-blue)
