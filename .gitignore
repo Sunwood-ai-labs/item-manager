@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# 環境変数
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# PostgreSQLデータ
+db/data/
+
+# ログファイル
+logs/
+*.log
+
+# エディタ設定
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS固有
+.DS_Store
+Thumbs.db
+
+# ビルド成果物
+dist/
+build/
